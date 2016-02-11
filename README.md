@@ -4,9 +4,12 @@ Goals:
  - cheap
  - runs on 12V DC
 
-Stages
+Stages:
  #1 - timing based control
  #2 - pressure based control
+
+Links:
+ test-assembly https://www.youtube.com/watch?v=jGt3lW6uXQ8
 
 This project combines the following:
  - 12V Blower - e.g. http://www.seaflo.us/product/3-line-bilge-blower-fan/
